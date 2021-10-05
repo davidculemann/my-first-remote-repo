@@ -1,4 +1,6 @@
 # My First Remote Repo
+# Added this line through Nano
+# Another small change through Nano
 
 This is my first remote repo.
 
